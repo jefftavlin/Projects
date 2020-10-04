@@ -29,6 +29,7 @@ This repo serves as my personal portfolio of completed projects. I've decided to
   - https://github.com/jefftavlin/Projects/blob/master/Deep%20Learning/Titanic_deep_learning.ipynb
   
 - Fashion MNIST:
+  - https://github.com/jefftavlin/Projects/blob/master/Deep%20Learning/Fashion_mnist.ipynb
 
 - MNIST:
 
