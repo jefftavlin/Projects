@@ -41,4 +41,5 @@ This repo serves as my personal portfolio of completed projects. I've decided to
 - Olympics:
 - Nobel Prize Winners:
 - Goodreads
-- 
+- Avocados
+- Video Games
