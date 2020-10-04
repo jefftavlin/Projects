@@ -3,7 +3,7 @@
 This repo serves as my personal portfolio of completed projects. I've decided to catalogue all my completed projects as a means of documenting my self learning journey.
 
 
-#Outline:
+# Outline:
 
 ## Machine Learning:
 
