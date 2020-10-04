@@ -36,3 +36,9 @@ This repo serves as my personal portfolio of completed projects. I've decided to
 - X-Ray Imaging:
 
 ## EDA:
+- Netflix:
+- Students:
+- Olympics:
+- Nobel Prize Winners:
+- Goodreads
+- 
