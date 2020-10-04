@@ -5,14 +5,16 @@ This repo serves as my personal portfolio of completed projects. I've decided to
 
 #Outline:
 
-Below features an outline and a short description of each project contained within the repo.
+## Machine Learning:
 
-- Machine Learning:
-  - Classifier: Titanic Project, data collected from the famous kaggle competition. Used mix of sklearn, pandas, numpy.
+- Titanic (Classifier) :
+  - Data collected from the famous kaggle competition. Used mix of sklearn, pandas, numpy.
   - https://github.com/jefftavlin/Projects/blob/master/Machine%20Learning/Titanic_v2.ipynb
   - https://www.kaggle.com/c/titanic
-- Regression: Housing Predictions. Data pulled from the kaggle competition.
   
-- EDA
-- Deep Learning
-- MISC Applications
+- Housing Predictions (Regression):
+  - Data collected from the famous kaggle competition.
+  - https://www.kaggle.com/c/home-data-for-ml-course
+  - https://github.com/jefftavlin/Projects/blob/master/Machine%20Learning/Housing%20Predictions.ipynb
+
+- Ghouls 
