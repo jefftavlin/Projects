@@ -5,7 +5,7 @@ This repo serves as my personal portfolio of completed projects. I've decided to
 
 #Outline:
 
-The following categories are the various topics I've decided to tackle and complete. Each sub-folder contains projects within that domain; some quite simple while others slightly more complex.
+Below features an outline and a short description of each project contained within the repo.
 
 - Machine Learning:
   - Classifier: Titanic Project, data collected from the famous kaggle competition. Used mix of sklearn, pandas, numpy.
