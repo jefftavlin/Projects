@@ -8,7 +8,7 @@ This repo serves as my personal portfolio of completed projects. I've decided to
 The following categories are the various topics I've decided to tackle and complete. Each sub-folder contains projects within that domain; some quite simple while others slightly more complex.
 
 - Machine Learning:
--Classifier: Titanic Project. Data pulled from the kaggle competition.
+  - Classifier: Titanic Project. Data pulled from the kaggle competition.
 - Regression: Housing Predictions. Data pulled from the kaggle competition.
   
 - EDA
