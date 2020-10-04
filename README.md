@@ -17,4 +17,12 @@ This repo serves as my personal portfolio of completed projects. I've decided to
   - https://www.kaggle.com/c/home-data-for-ml-course
   - https://github.com/jefftavlin/Projects/blob/master/Machine%20Learning/Housing%20Predictions.ipynb
 
-- Ghouls 
+- Ghouls/Monsters (Classifier):
+  - Fun little halloween kaggle competition.
+  - https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo
+  - https://github.com/jefftavlin/Projects/blob/master/Machine%20Learning/monsters_v2.ipynb
+  
+## Deep Learning (Keras):
+- Titanic (Classifier):
+  - Recompleted the Titanic competition using keras and neural networks.
+  - https://www.kaggle.com/c/titanic
