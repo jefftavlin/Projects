@@ -37,9 +37,16 @@ This repo serves as my personal portfolio of completed projects. I've decided to
 
 ## EDA:
 - Netflix:
+  - https://github.com/jefftavlin/Python/blob/master/EDA/Netflix%20Analysis.ipynb
 - Students:
+  - https://github.com/jefftavlin/Python/blob/master/EDA/Students.ipynb
 - Olympics:
+  - https://github.com/jefftavlin/Python/blob/master/EDA/Olympics.ipynb
 - Nobel Prize Winners:
-- Goodreads
-- Avocados
-- Video Games
+  - https://github.com/jefftavlin/Python/blob/master/EDA/Nobel%20Prize%20winners.ipynb
+- Goodreads:
+  - https://github.com/jefftavlin/Python/blob/master/EDA/books.ipynb
+- Avocados:
+  - https://github.com/jefftavlin/Python/blob/master/EDA/avo.ipynb
+- Video Games:
+  - https://github.com/jefftavlin/Python/blob/master/EDA/Video%20Game%20Analysis.ipynb
