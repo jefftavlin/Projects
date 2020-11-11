@@ -33,7 +33,7 @@ This repo serves as my personal portfolio of completed projects. I've decided to
   - https://github.com/jefftavlin/Projects/blob/master/Deep%20Learning/Fashion_mnist.ipynb
 
 - MNIST:
-  - Classid digit MNIST set.
+  - Classic digit MNIST set.
   - https://github.com/jefftavlin/Python/blob/master/Deep%20Learning/MNIST%20Digit.ipynb
 
 - X-Ray Imaging:
