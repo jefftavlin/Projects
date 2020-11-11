@@ -29,11 +29,19 @@ This repo serves as my personal portfolio of completed projects. I've decided to
   - https://github.com/jefftavlin/Projects/blob/master/Deep%20Learning/Titanic_deep_learning.ipynb
   
 - Fashion MNIST:
+  - Spin off of the original digit MNIST set using clothes instead of digits.
   - https://github.com/jefftavlin/Projects/blob/master/Deep%20Learning/Fashion_mnist.ipynb
 
 - MNIST:
+  - Classid digit MNIST set.
+  - https://github.com/jefftavlin/Python/blob/master/Deep%20Learning/MNIST%20Digit.ipynb
 
 - X-Ray Imaging:
+  - https://github.com/jefftavlin/Python/blob/master/Deep%20Learning/Pneumonia_detection.ipynb
+  
+- Chinese MNIST:
+  - Spin off of the original digit MNIST featuring chinese characters.
+  - https://github.com/jefftavlin/Python/tree/master/Deep%20Learning
 
 ## EDA:
 - Netflix:
