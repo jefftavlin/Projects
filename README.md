@@ -22,7 +22,7 @@ This repo serves as my personal portfolio of completed projects. I've decided to
   - https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo
   - https://github.com/jefftavlin/Projects/blob/master/Machine%20Learning/monsters_v2.ipynb
   
-## Deep Learning (Keras):
+## Deep Learning:
 - Titanic (Classifier):
   - Recompleted the Titanic competition using keras and neural networks.
   - https://www.kaggle.com/c/titanic
@@ -42,6 +42,11 @@ This repo serves as my personal portfolio of completed projects. I've decided to
 - Chinese MNIST:
   - Spin off of the original digit MNIST featuring chinese characters.
   - https://github.com/jefftavlin/Python/tree/master/Deep%20Learning
+
+- Real or Not? NLP with Disaster Tweets:
+  - Kaggle competition to determine whether a tweet is a disaster tweet or not.
+  - Binary Classifier (Disaster vs not)
+  - 
 
 ## EDA:
 - Netflix:
