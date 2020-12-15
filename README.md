@@ -46,7 +46,7 @@ This repo serves as my personal portfolio of completed projects. I've decided to
 - Real or Not? NLP with Disaster Tweets:
   - Kaggle competition to determine whether a tweet is a disaster tweet or not.
   - Binary Classifier (Disaster vs not)
-  - 
+  - https://github.com/jefftavlin/Python/blob/master/Deep%20Learning/tweet_v2.ipynb
 
 ## EDA:
 - Netflix:
