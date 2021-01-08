@@ -47,6 +47,10 @@ This repo serves as my personal portfolio of completed projects. I've decided to
   - Kaggle competition to determine whether a tweet is a disaster tweet or not.
   - Binary Classifier (Disaster vs not)
   - https://github.com/jefftavlin/Python/blob/master/Deep%20Learning/tweet_v2.ipynb
+  
+- Facial Recognition:
+  - Binary Classifiers built using tensorflow and keras api. Used transfer learning to build two classifiers, a smile detector and a gender detector.
+  - https://github.com/jefftavlin/Python/tree/master/Deep%20Learning/Facial%20Recognition
 
 ## EDA:
 - Netflix:
